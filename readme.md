@@ -26,7 +26,7 @@ Files are orginised based on names to keep things clean and easy to understand. 
   >
   > ### <u>HTML:</u>
   >
-  > ![](login.JPG)
+  > ![](login.jpg)
   >
   > ### <u>JavaScript Functions:</u>
   >
@@ -47,7 +47,7 @@ Files are orginised based on names to keep things clean and easy to understand. 
   >
   > ### <u>HTML:</u>
   >
-  > ![](conversations.JPG)
+  > ![](conversations.jpg)
   >
   > ### <u>JavaScript Functions</u>
   >
@@ -64,7 +64,7 @@ Files are orginised based on names to keep things clean and easy to understand. 
   >
   > ### <u>HTML:</u>
   >
-  > ![](messages.JPG)
+  > ![](messages.jpg)
   >
   > ### <u>JavaScript Functions</u>
   >
